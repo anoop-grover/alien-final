@@ -169,7 +169,7 @@
   line-height: 120.00000476837158%;
   font-stretch: normal;
   text-decoration: none;
-  width: 188px;
+  width: 240px;
 }
 .desktop1-text007 {
   color: rgba(255, 255, 255, 1);
@@ -182,6 +182,7 @@
   line-height: 120.00000476837158%;
   font-stretch: normal;
   text-decoration: none;
+  width: 240px;
 }
 .desktop1-vector1 {
   width: 10px;
@@ -260,7 +261,7 @@
 }
 .desktop1-vector6 {
   top: 2663px;
-  left: 1377px;
+  left: 1340px;
   width: 10px;
   height: 183px;
   position: absolute;
@@ -274,7 +275,7 @@
 }
 .desktop1-vector7 {
   top: 2757px;
-  left: 1377px;
+  left: 1340px;
   width: 10px;
   height: 87px;
   position: absolute;
@@ -634,7 +635,7 @@
   font-weight: 700;
 }
 .desktop1-text038 {
-  top: 4196px;
+  top: 4130px;
   left: 121px;
   color: rgba(255, 255, 255, 1);
   width: 1199px;
@@ -746,7 +747,7 @@
   font-weight: 700;
 }
 .desktop1-text043 {
-  color: rgba(255, 255, 255, 1);
+  color: orange;
   font-weight: 700;
 }
 .desktop1-component17 {
@@ -1061,8 +1062,8 @@
 }
 .desktop1-component18 {
   gap: 10px;
-  top: 4409px;
-  left: 307px;
+  top: 4390px;
+  left: 555px;
   width: 297px;
   display: flex;
   padding: 26px 99px;
@@ -1839,7 +1840,7 @@
   font-weight: 400;
 }
 .desktop1-text105 {
-  color: rgba(238, 238, 238, 1);
+  color: orange;
   font-weight: 400;
 }
 .desktop1-testimonials30 {
