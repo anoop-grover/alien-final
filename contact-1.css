@@ -166,11 +166,43 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.desktop5-text14 {
+  top: 520px;
+  left: 726px;
+  color: rgba(132, 145, 165, 1);
+  height: 70px;
+  width: 250px;
+  position: absolute;
+  font-size: 15.465115547180176px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.372093200683594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .desktop5-text15 {
   top: 486px;
   left: 1058.5px;
   color: rgba(132, 145, 165, 1);
   height: auto;
+  position: absolute;
+  font-size: 15.465115547180176px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.372093200683594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text16 {
+  top: 520px;
+  left: 1058.5px;
+  color: rgba(132, 145, 165, 1);
+  height: 70px;
+  width: 250px;
   position: absolute;
   font-size: 15.465115547180176px;
   font-style: Medium;
@@ -196,11 +228,43 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.desktop5-text18 {
+  top: 640px;
+  left: 1058.5px;
+  color: rgba(132, 145, 165, 1);
+  height: 70px;
+  width: 250px;
+  position: absolute;
+  font-size: 15.465115547180176px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.372093200683594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .desktop5-text19 {
   top: 603px;
   left: 727.5px;
   color: rgba(132, 145, 165, 1);
   height: auto;
+  position: absolute;
+  font-size: 15.465115547180176px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 31.372093200683594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-text20 {
+  top: 640px;
+  left: 727.5px;
+  color: rgba(132, 145, 165, 1);
+  height: 70px;
+  width: 250px;
   position: absolute;
   font-size: 15.465115547180176px;
   font-style: Medium;
@@ -241,18 +305,33 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.desktop5-text24 {
+  top: 786px;
+  left: 727.5px;
+  color: rgba(255, 145, 48, 1);
+  height: 150px;
+  width: 580px;
+  position: absolute;
+  font-size: 15.465115547180176px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 31.372093200683594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .desktop5-component27 {
   gap: 10px;
-  top: 997px;
-  left: 1021px;
-  width: 323px;
+  top: 990px;
+  left: 1020px;
+  width: 370px;
   display: flex;
   padding: 14px 100px;
   position: absolute;
   align-items: center;
   border-radius: 33px;
   justify-content: center;
-  background-color: rgba(238, 238, 238, 1);
 }
 .desktop5-text25 {
   color: rgba(34, 40, 49, 1);
@@ -347,10 +426,10 @@
   flex-shrink: 1;
 }
 .desktop5-vector03 {
-  top: 22.3524112701416px;
-  left: 8.81852912902832px;
-  width: 58px;
-  height: 25px;
+  top: 1.3524112701416px;
+  left: 0.81852912902832px;
+  width: 71px;
+  height: 76px;
   position: absolute;
 }
 .desktop5-vector04 {
@@ -523,6 +602,7 @@
   line-height: 14px;
   font-stretch: normal;
   text-decoration: none;
+  width: 90px;
 }
 .desktop5-resourceshover {
   gap: 10px;
@@ -620,8 +700,8 @@
 .desktop5-component21 {
   gap: 10px;
   top: 41px;
-  left: 851px;
-  width: 128px;
+  left: 790px;
+  width: 140px;
   display: flex;
   padding: 10px 29px;
   position: absolute;
@@ -706,10 +786,10 @@
   flex-shrink: 1;
 }
 .desktop5-vector25 {
-  top: 30.949491500854492px;
-  left: 12.20097827911377px;
-  width: 80px;
-  height: 34px;
+  top: 1.949491500854492px;
+  left: 0.20097827911377px;
+  width: 101px;
+  height: 104px;
   position: absolute;
 }
 .desktop5-vector26 {
@@ -1013,8 +1093,9 @@
   align-items: center;
 }
 .desktop5-icbaselinefacebook {
-  width: 54px;
-  height: 54px;
+  width: 40px;
+  height: 40px;
+  background-color: white;
 }
 .desktop5-riinstagramfill {
   width: 52px;
@@ -1023,4 +1104,37 @@
 .desktop5-formkittwitter {
   width: 43px;
   height: 43px;
+}
+#myForm {
+  max-width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+  background-color: #fff;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
 }
